@@ -4,7 +4,7 @@
 
 I'm new here but I'm learning fast.
 
-[![image](https://img.shields.io/badge/-mathematica-DD1100?style=for-the-badge&logo=wolfram-mathematica&logoColor=white)](https://github.com/fizixmastr/Miscellaneous-MATLAB-Projects) [![image](https://img.shields.io/badge/-Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://github.com/fizixmastr/Miscellaneous-MATLAB-Projects)
+[![image](https://img.shields.io/badge/-mathematica-DD1100?style=for-the-badge&logo=wolfram-mathematica&logoColor=white)](https://github.com/fizixmastr/Miscellaneous-Mathematica-Projects) [![image](https://img.shields.io/badge/-Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://github.com/fizixmastr/Miscellaneous-MATLAB-Projects)
 
 ![image](https://img.shields.io/badge/-latex-008080?style=for-the-badge&logo=latex&logoColor=white)
 
