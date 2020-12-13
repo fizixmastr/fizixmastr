@@ -4,10 +4,12 @@
 
 I'm new here but I'm learning fast.
 
+[![image](https://img.shields.io/badge/-Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://github.com/fizixmastr/Miscellaneous-MATLAB-Projects)
+
 <!--
 **fizixmastr/fizixmastr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![image](https://img.shields.io/badge/-Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
 
 Here are some ideas to get you started:
 
