@@ -1,7 +1,7 @@
 ### Welcome to My Projects
 
 <p align=”center”>
-### tests
+[![image](https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin&labelColor=blue)](https://fi.linkedin.com/in/charles-rambo?trk=profile-badge)
 </a>
 </p>
 
