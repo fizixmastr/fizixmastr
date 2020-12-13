@@ -1,10 +1,8 @@
 ### Welcome to My Projects
 
-<p align=”center”>
-<a href=”https://fi.linkedin.com/in/charles-rambo?trk=profile-badge”>
-<img src=”https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
+[![image](https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin&labelColor=blue)](https://fi.linkedin.com/in/charles-rambo?trk=profile-badge)
+
+I'm new here but I'm learning fast.
 
 <!--
 **fizixmastr/fizixmastr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
