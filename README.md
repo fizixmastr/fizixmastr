@@ -4,7 +4,7 @@
 
 [![image](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=blue)](https://fi.linkedin.com/in/charles-rambo?trk=profile-badge)
 
-I'm new here but I'm learning fast. The purpose of this page is to sereve as a portfolio of my various works. Please follow the links below to see some of my smaller projects. My larger prjects have their own dedicated repositories.
+I'm new here but I'm learning fast. The purpose of this page is to serve as a portfolio of my various works. Please follow the links below to see some of my smaller projects. My larger prjects have their own dedicated repositories.
 
 [![image](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/fizixmastr/Miscellaneous-Python-Projects) [![image](https://img.shields.io/badge/-mathematica-DD1100?style=for-the-badge&logo=wolfram-mathematica&logoColor=white)](https://github.com/fizixmastr/Miscellaneous-Mathematica-Projects) [![image](https://img.shields.io/badge/-Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://github.com/fizixmastr/Miscellaneous-MATLAB-Projects) ![image](https://img.shields.io/badge/-latex-008080?style=for-the-badge&logo=latex&logoColor=white)
 
