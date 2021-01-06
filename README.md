@@ -2,7 +2,7 @@
   
 # Welcome to My Projects
 
-[![image](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=blue)](https://fi.linkedin.com/in/charles-rambo?trk=profile-badge)
+[![image](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=0077B5)](https://fi.linkedin.com/in/charles-rambo?trk=profile-badge)
 
 I'm new here but I'm learning fast. The purpose of this page is to serve as a portfolio of my various works. Please follow the links below to see some of my smaller projects. My larger prjects have their own dedicated repositories.
 
